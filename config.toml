@@ -13,7 +13,12 @@ disqusShortname = "zoltantoma"
   collapsibleMenu = true
   disableBreadcrumb = false
   disableNextPrev = false
+  mainSection = "blog"
   # cactus
+  postsOnHomePage = 10
+  rss = true
+  tagsOverview = false
+  showProjectsList = true
   css = ["css/custom.css"]
 
 [params.comments]
@@ -65,19 +70,19 @@ disqusShortname = "zoltantoma"
   url = "/cv"
 
   [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+  name = "Home"
+  url = "/"
+  weight = 1
 
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+  [[menu.main]]
+  name = "All posts"
+  url = "/posts"
+  weight = 2
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
+#  [[menu.main]]
+#  name = "Tags"
+#  url = "/tags"
+#  weight = 3
 
   [[menu.icons]]
     name = "youtube"
