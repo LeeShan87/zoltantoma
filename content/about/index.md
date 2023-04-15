@@ -2,6 +2,8 @@
 title: About
 date: 2023-04-14
 description: About me
+outputs:
+- html
 ---
 
 I'm a huge fan of open source, and my passion is to make the internet a safer place.

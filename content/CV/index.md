@@ -2,6 +2,8 @@
 title: CV
 date: 2023-04-14
 description: Curriculum vitae
+outputs:
+- html
 ---
 
 <div id="printableArea" class="noPrint">
