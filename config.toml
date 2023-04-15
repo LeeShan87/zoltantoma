@@ -1,0 +1,97 @@
+title = "Zoltan Toma"
+languageCode = "en-us"
+#theme = "cactus"
+baseURL = "/"
+enableRobotsTXT = false # permission issue on site generatation. TODO: check it.
+copyright = "Zoltan Toma"
+disqusShortname = "zoltantoma"
+[params]
+  colortheme = "dark" # dark
+  description = "My personal site for shiny objects."
+  author = "Zoltan Toma"
+  showVisitedLinks = true
+  collapsibleMenu = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  # cactus
+  css = ["css/custom.css"]
+
+[params.comments]
+    enabled = false # default
+    engine = "disqus"
+  
+[[params.social]]
+    name = "youtube"
+    link = "https://youtube.com/@gosecninja"
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/LeeShan87"
+  [[params.social]]
+    name = "email"
+    link = "zoltantoma@gosec.ninja"  # no need for "mailto:" in the head
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/GoSecNinja"
+  [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/toma-zoltan/"
+
+[markup]
+  [markup.highlight]
+    guessSyntax = true
+
+    #noClasses = false
+    style = "github-dark"
+
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.75.0"
+  [[module.imports]]
+    #path = "gitlab.com/gabmus/hugo-ficurinia"
+    path = "github.com/monkeyWzr/hugo-theme-cactus"
+    disable = false
+
+[menu]
+  [[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 4
+  [[menu.main]]
+  name = "CV"
+  url = "/cv"
+
+  [[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+  [[menu.icons]]
+    name = "youtube"
+    identifier = "youtube"
+    url = "https://youtube.com/@gosecninja"
+  [[menu.icons]]
+    identifier = "github"
+    name = "github"
+    url = "https://github.com/LeeShan87"
+  [[menu.icons]]
+    name = "twitter"
+    identifier = "twitter"
+    url = "https://twitter.com/GoSecNinja"
+  [[menu.icons]]
+    name = "linkedin"
+    identifier = "linkedin"
+    url = "https://www.linkedin.com/in/toma-zoltan/"

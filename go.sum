@@ -1,0 +1,11 @@
+github.com/FortAwesome/Font-Awesome v0.0.0-20220831210243-d3a7818c253f h1:bvkUptSRPZBr3Kxuk+bnWCEmQ5MtEJX5fjezyV0bC3g=
+github.com/FortAwesome/Font-Awesome v0.0.0-20220831210243-d3a7818c253f/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
+github.com/google/docsy v0.5.1 h1:D/ZdFKiE29xM/gwPwQzmkyXhcbQGkReRS6aGrF7lnYk=
+github.com/google/docsy v0.5.1/go.mod h1:maoUAQU5H/d+FrZIB4xg1EVWAx7RyFMGSDJyWghm31E=
+github.com/google/docsy/dependencies v0.5.1/go.mod h1:EDGc2znMbGUw0RW5kWwy2oGgLt0iVXBmoq4UOqstuNE=
+github.com/monkeyWzr/hugo-theme-cactus v0.0.0-20210831141748-a27a14348040 h1:taoPyyZCAWfGwjlm8Mm/nvtcPvHu/AuuJL9qAFN9aTU=
+github.com/monkeyWzr/hugo-theme-cactus v0.0.0-20210831141748-a27a14348040/go.mod h1:pelyER/z3wJ0lzJtj5JVIlUfnKJJ/sfe4RYyfQG0E/4=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221214160441-315a00623c9f h1:cf7PDZnHEHhrAQqeZrkuJdwU4esXxgq9p84e4KRJZes=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221214160441-315a00623c9f/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
+github.com/twbs/bootstrap v4.6.2+incompatible h1:TDa+R51BTiy1wEHSYjmqDb8LxNl/zaEjAOpRE9Hwh/o=
+github.com/twbs/bootstrap v4.6.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
