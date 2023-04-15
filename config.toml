@@ -1,7 +1,7 @@
 title = "Zoltan Toma"
 languageCode = "en-us"
 #theme = "cactus"
-baseURL = "/"
+baseURL = "https://zoltantoma.com/"
 enableRobotsTXT = false # permission issue on site generatation. TODO: check it.
 copyright = "Zoltan Toma"
 disqusShortname = "zoltantoma"
@@ -16,7 +16,7 @@ disqusShortname = "zoltantoma"
   mainSection = "blog"
   # cactus
   postsOnHomePage = 10
-  # rss = true
+  rss = true
   tagsOverview = false
   showProjectsList = true
   css = ["css/custom.css"]
