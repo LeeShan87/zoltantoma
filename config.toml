@@ -16,7 +16,7 @@ disqusShortname = "zoltantoma"
   mainSection = "blog"
   # cactus
   postsOnHomePage = 10
-  rss = true
+  # rss = true
   tagsOverview = false
   showProjectsList = true
   css = ["css/custom.css"]
