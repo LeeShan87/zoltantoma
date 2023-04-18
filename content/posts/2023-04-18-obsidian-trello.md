@@ -3,7 +3,7 @@ trello_board_card_id: 643bebecdThisISNotValid
 trello_plugin_note_id: 6sSJkTNope
 title: Using Trello with Obsidian
 date: 2023-04-18
-tags: trello, Obsidian, automation
+tags: [Trello, Obsidian, automation]
 ---
 
 I realized that using a project management framework is not an option for me. Usually, I adapt how my current company works, but this may not be a good choice if you already have a so-called working system.
