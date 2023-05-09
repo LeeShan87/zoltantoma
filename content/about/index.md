@@ -16,5 +16,10 @@ Currently looking for projects that:
 
 When I find similar projects I share them with you on my:
 
-- YouTube channel https://www.youtube.com/@gosecninja
-- Twitter https://twitter.com/GoSecNinja
+## YouTube channel 
+- https://www.youtube.com/@gosecninja
+- https://www.youtube.com/@zoltantoma
+
+## Twitter 
+- https://twitter.com/GoSecNinja
+- Personal is on my Todo :)
