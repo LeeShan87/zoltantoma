@@ -7,7 +7,7 @@ outputs:
 ---
 
 <div id="printableArea" class="noPrint">
-      <h2 onclick="printDiv('article')"/>Click here to Print me</h2>
+      <h2 onclick="printDiv('article')"/><i class="fa fa-print" style="font-size:24px"></i> Click here to Print me <i class="fa fa-print" style="font-size:24px"></i></h2>
 </div>
 <script src="/js/printme.js"></script>
 
