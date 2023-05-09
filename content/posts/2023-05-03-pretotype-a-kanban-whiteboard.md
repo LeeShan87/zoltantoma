@@ -64,7 +64,7 @@ The goal of a pretotype is to figure out ways to improve a system or a product w
 
 ## What are my findings so far?
 
-Well, I should have wast the door before putting notes on it because the notes do not stick for a long time if the cards are moved. :)
+Well, I should have washed the door before putting notes on it because the notes do not stick for a long time if the cards are moved. :)
 
 Second, the typical Kanban board is not ideal for family todos. Do you really want to show if a task is inprogress? Or what about done?
 
