@@ -22,4 +22,4 @@ When I find similar projects I share them with you on my:
 
 ## Twitter 
 - https://twitter.com/GoSecNinja
-- Personal is on my Todo :)
+- https://twitter.com/ZoltanToma_ (It has an underscore at the end :D)

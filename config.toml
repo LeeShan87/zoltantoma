@@ -103,18 +103,29 @@ disqusShortname = "zoltantoma"
 #  weight = 3
 
   [[menu.icons]]
-    name = "youtube"
-    identifier = "youtube"
-    url = "https://youtube.com/@gosecninja"
-  [[menu.icons]]
     identifier = "github"
     name = "github"
     url = "https://github.com/LeeShan87"
   [[menu.icons]]
     name = "twitter"
     identifier = "twitter"
-    url = "https://twitter.com/GoSecNinja"
+    url = "https://twitter.com/ZoltanToma_"
   [[menu.icons]]
     name = "linkedin"
     identifier = "linkedin"
     url = "https://www.linkedin.com/in/toma-zoltan/"
+  [[menu.icons]]
+    name = "youtube"
+    identifier = "youtube"
+    url = "https://youtube.com/@zoltantoma"
+    
+  # GoSecNinja's availablilities
+  [[menu.icons]]
+    name = "twitter"
+    identifier = "twitter"
+    url = "https://twitter.com/GoSecNinja"
+  [[menu.icons]]
+    name = "youtube"
+    identifier = "youtube"
+    url = "https://youtube.com/@gosecninja"
+  
