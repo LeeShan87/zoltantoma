@@ -26,21 +26,29 @@ disqusShortname = "zoltantoma"
     engine = "disqus"
   
 [[params.social]]
-    name = "youtube"
-    link = "https://youtube.com/@gosecninja"
-  [[params.social]]
-    name = "github"
-    link = "https://github.com/LeeShan87"
-  [[params.social]]
-    name = "email"
-    link = "zoltantoma@gosec.ninja"  # no need for "mailto:" in the head
-  [[params.social]]
-    name = "twitter"
-    link = "https://twitter.com/GoSecNinja"
-  [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/toma-zoltan/"
+[[params.social]]
+  name = "github"
+  link = "https://github.com/LeeShan87"
+[[params.social]]
+    name = "youtube"
+    link = "https://youtube.com/@zoltantoma"
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/@ZoltanToma_"
 
+# GoSecNinja's availablilities
+[[params.social]]
+    name = "youtube"
+    link = "https://youtube.com/@gosecninja"
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/GoSecNinja"
+[[params.social]]
+  name = "email"
+  link = "zoltantoma@gosec.ninja"  # no need for "mailto:" in the head
+  
 [markup]
   [markup.highlight]
     guessSyntax = true
@@ -102,30 +110,4 @@ disqusShortname = "zoltantoma"
 #  url = "/tags"
 #  weight = 3
 
-  [[menu.icons]]
-    identifier = "github"
-    name = "github"
-    url = "https://github.com/LeeShan87"
-  [[menu.icons]]
-    name = "twitter"
-    identifier = "twitter"
-    url = "https://twitter.com/ZoltanToma_"
-  [[menu.icons]]
-    name = "linkedin"
-    identifier = "linkedin"
-    url = "https://www.linkedin.com/in/toma-zoltan/"
-  [[menu.icons]]
-    name = "youtube"
-    identifier = "youtube"
-    url = "https://youtube.com/@zoltantoma"
-    
-  # GoSecNinja's availablilities
-  [[menu.icons]]
-    name = "twitter"
-    identifier = "twitter"
-    url = "https://twitter.com/GoSecNinja"
-  [[menu.icons]]
-    name = "youtube"
-    identifier = "youtube"
-    url = "https://youtube.com/@gosecninja"
   
