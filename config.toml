@@ -62,14 +62,6 @@ disqusShortname = "zoltantoma"
 
 [menu]
   [[menu.main]]
-  name = "About"
-  url = "/about"
-  weight = 4
-  [[menu.main]]
-  name = "CV"
-  url = "/cv"
-
-  [[menu.main]]
   name = "Home"
   url = "/"
   weight = 1
@@ -79,6 +71,32 @@ disqusShortname = "zoltantoma"
   url = "/posts"
   weight = 2
 
+  [[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
+
+  [[menu.main]]
+  name = "Tools"
+  url = "/tools"
+  weight = 4
+
+  [[menu.main]]
+  name = "Books"
+  url = "/books"
+  weight = 5
+
+  [[menu.main]]
+  name = "Gear"
+  url = "/gear"
+  weight = 6
+
+  [[menu.main]]
+  name = "CV"
+  url = "/cv"
+  weight = 10
+
+  
 #  [[menu.main]]
 #  name = "Tags"
 #  url = "/tags"
