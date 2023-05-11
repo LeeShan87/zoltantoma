@@ -35,7 +35,7 @@ outputs:
 
 ## Experience
 
-### Dec 2022 - Apr 2022, Security Architect, Blue Colibri App
+### Dec 2022 - Apr 2023, Security Architect, Blue Colibri App
 
 Help the organization improve its security program. Advise on new technologies that could help identify security gaps and mitigate them.
 
