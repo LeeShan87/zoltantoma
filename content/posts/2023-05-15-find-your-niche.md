@@ -122,7 +122,7 @@ And I was more focused on staying on the topic. My language mistakes were not di
 There are a couple of ways I could improve this video, like choosing background music or cup out my mistakes. Maybe I will put this effort into it. But for now I only add a simple thumbnail and a description.
 
 I wonder, Is it easier to create a thumbnail on a Mac?
-As a matter of fact, there are easy ways to do it. I found this easy thumbnail creation guide on Youtube: https://youtu.be/WBeZJajFYas
+As a matter of fact, there are easy ways to do it. I found this easy thumbnail creation guide on Youtube: {{< youtube WBeZJajFYas >}}
 
 The result of my clumsy attempt:
 ![](/images/youtube/niche/Thumbnail-BYA.001.jpeg)
@@ -133,3 +133,13 @@ And another one for the "How it made" video.
 
 I have a description template somewhere... I need to find it and make it more actual.
 Well, I need to work on it. So, I put it on my todo list...
+
+## Videos available on YouTube
+
+You may want to watch
+
+{{< youtube PoXWeeiIGQY >}}
+
+Or the "How it made" video
+
+{{< youtube 8FCG_JEAxT8>}}
