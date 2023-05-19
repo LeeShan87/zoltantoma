@@ -29,4 +29,6 @@ I have a completely new setup. And I wasn't able to try it out previously.
 
 Yeah, I know It will be a looong road ahead till I can feel I'm satisfied with my productions. But the most challenging part every time is to sit down and press that button.
 
-If you want, you can watch it on youtube: https://youtu.be/rn1IslkI20M
+If you want, you can watch it on youtube:
+
+{{< youtube rn1IslkI20M >}}
