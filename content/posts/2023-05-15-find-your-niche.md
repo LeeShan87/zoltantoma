@@ -114,7 +114,10 @@ An intuition led me to try to read the slides and just shoot without thinking ab
 
 ### Second run
 
-The second run of my recording when a bit more smoothly. There were no background noises like a train. I should embed asdf I like train here.
+The second run of my recording when a bit more smoothly. There were no background noises like a train. I should embed asdf I like trains here.
+
+{{< youtube vyItidbjxLM >}}
+
 And I was more focused on staying on the topic. My language mistakes were not distracting me that much because, I know probably just a couple of people will watch this video.
 
 ### After-works
