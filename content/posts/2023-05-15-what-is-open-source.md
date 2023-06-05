@@ -241,6 +241,6 @@ You may watch it and decide if worth you time. The language is Hungarian (I warn
 
 - [x] Find references to all mentioned projects.
 - [x] "Slidify" the script part.
-- [ ] Add the project list I mentioned to the video description
-- [ ] Write a description for the video
-- [ ] Create a thumbnail
+- [x] Add the project list I mentioned to the video description
+- [x] Write a description for the video
+- [x] Create a thumbnail
