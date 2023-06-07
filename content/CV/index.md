@@ -3,7 +3,7 @@ title: CV
 date: 2023-04-14
 description: Curriculum vitae
 outputs:
-- html
+  - html
 ---
 
 <div id="printableArea" class="noPrint">
@@ -13,25 +13,25 @@ outputs:
 
 ## Zoltan Toma - Security Software Engineer
 
-| | |
-|-|-|
-| **Email:** | zoltantoma87[at]gmail.com |
-| **LinkedIn:** | https://www.linkedin.com/in/toma-zoltan/ |
-| **GitHub:** |            https://github.com/LeeShan87 |
-| **Personal Site:** |  https://zoltantoma.com |
-| **GoSecNinja:** |    https://gosec.ninja/ |
+|                    |                                                                                                                                                                                                                                     |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Email:**         | <a href="#" class="cryptedmail" data-name="zoltantoma87" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;"></a> |
+| **LinkedIn:**      | https://www.linkedin.com/in/toma-zoltan/                                                                                                                                                                                            |
+| **GitHub:**        | https://github.com/LeeShan87                                                                                                                                                                                                        |
+| **Personal Site:** | https://zoltantoma.com                                                                                                                                                                                                              |
+| **GoSecNinja:**    | https://gosec.ninja/                                                                                                                                                                                                                |
 
 ## Competencies
 
-| | |
-|-|-|
-| Programming Languages: | PHP, Go, Bash, Ruby, Python |
-| CI/CD: | Jenkins, BitBucket, GitHub |
-| Technologies: | VirtualBox, Vagrant, SaltStack, Ansible, ReactPHP, Docker, Racher, Nginx, HAProxy, Omnibus, AWS(S3, Route53, CloudFront) |
-| Documentation: | Markdown, Sphinx, Hugo, Confluence, PlantUML |
-| Project management: | JIRA, Trello |
-| Security: | Nmap, Burp Suite, Kali, Iptables, ipset |
-| Operation Systems: | CentOS, Debian, Ubuntu |
+|                        |                                                                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Programming Languages: | PHP, Go, Bash, Ruby, Python                                                                                              |
+| CI/CD:                 | Jenkins, BitBucket, [GitHub](tags/github)                                                                                |
+| Technologies:          | VirtualBox, Vagrant, SaltStack, Ansible, ReactPHP, Docker, Racher, Nginx, HAProxy, Omnibus, AWS(S3, Route53, CloudFront) |
+| Documentation:         | Markdown, Sphinx, Hugo, Confluence, PlantUML                                                                             |
+| Project management:    | JIRA, Trello                                                                                                             |
+| Security:              | Nmap, Burp Suite, Kali, Iptables, ipset                                                                                  |
+| Operation Systems:     | CentOS, Debian, Ubuntu                                                                                                   |
 
 ## Experience
 
@@ -44,7 +44,7 @@ Help the organization improve its security program. Advise on new technologies t
 - Organized multiple training sessions about DocOps and DevSecOps.
 - Reviewed Security documentation against ISO 27001 and NIST 800-53 frameworks.
 
-### Mar 2022 - Dec 2022, Senior DevOps Engineer/Developer,  EPAM Systems
+### Mar 2022 - Dec 2022, Senior DevOps Engineer/Developer, EPAM Systems
 
 I'm part of a team that tries to achieve a single pane of glass for observability for our
 clients. We collect infrastructure, logs, and
@@ -61,12 +61,13 @@ Tech-stack: AWS, Terraform, Ansible, Telegraf, RabbitMQ, ClickHouse, Grafana, Go
 In this position, I try to find, promote, contribute and share my knowledge on projects that aimed to make the internet a safer place.
 
 Fan of:
+
 - https://github.com/corazawaf/coraza
 - https://github.com/crowdsecurity/crowdsec
 - https://github.com/elastic
 - https://github.com/telekom-security/tpotce
 
-### 2016-Oct 2021,  -   Lead Security Software Developer/Team Lead, BitNinja.io
+### 2016-Oct 2021, - Lead Security Software Developer/Team Lead, BitNinja.io
 
 BitNinja is an easy-to-use server security tool, which can be installed on your server within a couple of minutes and requires virtually no maintenance. It is a mixture of an on-premise and cloud-based solution. It is an agent which sits on your infrastructure and sends the attack information to the central server, which is in the cloud. In addition, it has a new technology called defense network. Every BitNinja protected server learns from each attack and shares the learned information with the central server, and other BitNinja enabled servers. Hence, the shield gets stronger and stronger with every single attack.
 
@@ -106,6 +107,7 @@ BitNinja is an easy-to-use server security tool, which can be installed on your 
 - Implement a PHPUnit skeleton generator Yii
 
 ## Education
+
 ### Computer Software Engineering, University of Debrecen
 
 ## Public Speech
