@@ -197,3 +197,13 @@ And here comes the fun part. My advice is you should try to create Your Own proj
 I planned to create a video about this topic for ages now. I've started to create the script hours now and it is almost 18:00 now.
 
 Probably I will on make a video about it next week. I still need to make it in a format I can use in the future.
+
+## Jun 17
+
+Yesterday I got tired in the end when I tried to collect memories and advices about this topic. After some time resting and a quick review from my friend I found this little project of mine is too long. It doesn't provide enough help for those who really need it. And it sounds so stuck-up, especially from me, who needs to use Grammarly. Who still has only a ~B+ level of competency in English. But as a matter of fact, I'm working on it and I try to get out of my comfort zone. Maybe I should reference these tools and techniques along with the content.
+
+Every thought, every motive has a story behind it. This one as well. I help a couple of people to get into IT or to find a more challenging job with a better salary. Most of the time they were asking the wrong question. A programming language change is not going to help. If they were able to understand the reasoning why they want to do something then choosing the right tool for the right job help them more in the long run.
+
+I had many doughts about whether should I speak about or write about it in English or should I speak in Hungarian. I know so many good IT professionals and also who are very passionate and they are struggling. They are not able to get to the next level. They are not able to pass the first round of an interview, which is usually in English, or notable to ask for help because they need to speak or write to someone in English. I know their struggle. I was one of them. Many people I know have a basic skill in this lanuage, but getting to the next level may require a little push.
+
+I will work on the script and how I could provide more help along the way probably next week. This weekend I need some time with my family before I start my next assignment.
