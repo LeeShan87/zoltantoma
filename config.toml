@@ -10,11 +10,13 @@ disqusShortname = "zoltantoma"
   description = "My personal site for shiny objects."
   author = "Zoltan Toma"
   showVisitedLinks = true
-  collapsibleMenu = true
+  collapsibleMenu = false
   disableBreadcrumb = false
   disableNextPrev = false
   mainSection = "blog"
   # cactus
+  showAllPostsOnHomePage = true
+  showAllPostsArchive = true
   postsOnHomePage = 10
   rss = true
   tagsOverview = false
