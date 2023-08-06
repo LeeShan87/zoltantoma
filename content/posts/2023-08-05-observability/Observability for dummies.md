@@ -4,11 +4,14 @@ tags: [presentation, observability]
 date: 2023-08-05
 ---
 
-Observability in a nutshell.
+I like the for dummies books. They are easy to read and understand. I try to do the same with this post. I hope you will find it useful for learning concepts about observability.
+Observability in a nutshell. (I'll need to lookup how thumbnails work in Hugo with the Cactus theme.)
 
 ![](/images/observability/fd/20230805210349.png)
 
-Placeholder for the video. :)
+## Video
+
+{{< youtube bGdxOqkvaoI >}}
 
 ## Script
 
