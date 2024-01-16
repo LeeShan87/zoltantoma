@@ -35,6 +35,16 @@ outputs:
 
 ## Experience
 
+### Jun 2023 - Jan 2024, Platform Engineer, AGCO Corporation
+
+Help to create governance around Dynatrace usage and improved monitoring and cost-tracking capabilities.
+- Participate in the Dynatrace extended support meetings and shared product improvement ideas
+- Created the Dynatrace Account inventory OSS project to help others remove duplicated access rights from users
+- Investigate how to use LaunchDarkly to enable teams to use Dynatrace features
+- Onboard Dynatrace Runtime Vulnerability Analytics into the organization
+- Helped other team members to figure out some Security concepts around Access Control
+- Participated in the Dynatrace community and Dynatrace PUB community events
+
 ### Dec 2022 - Apr 2023, Security Architect, Blue Colibri App
 
 Help the organization improve its security program. Advise on new technologies that could help identify security gaps and mitigate them.
