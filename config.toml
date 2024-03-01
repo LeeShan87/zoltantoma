@@ -92,16 +92,6 @@ disqusShortname = "zoltantoma"
   weight = 4
 
   [[menu.main]]
-  name = "Tools"
-  url = "/tools"
-  weight = 5
-
-  [[menu.main]]
-  name = "Books"
-  url = "/books"
-  weight = 6
-
-  [[menu.main]]
   name = "Gear"
   url = "/gear"
   weight = 7
