@@ -5,6 +5,8 @@ tags: ["personal branding", LinkedIn, "personal story"]
 date: 2024-03-01
 ---
 
+![](/images/2024-03-01-linkedin-block-my-responses/thumbnail.webp)
+
 This writing might sound a bit frustrated. And it is, a bit. Maybe I missed one or two interesting opportunities because of a communication error. But this time, I hope it wasn't my fault. I still have much to learn about personal branding and the digital nomad lifestyle. But what I've realized from my IT years is: not to rely on a single provider. Nevertheless, I'll reactivate my LinkedIn subscription and even want to be more active on digital platforms.
 
 I remember the days when I scoured local newspapers and websites to land my first IT programming job. It was a continuous search for work, sending countless resumes and a few cover letters as well. Honestly, I only needed one job that paid enough to live on and a project I could learn from. What that was didn't particularly matter to me. I've wanted to be a programmer since I was ten years old and would have done anything to get a step closer to a career in game development just to be part of creating a new world.
@@ -21,7 +23,7 @@ From a recruiter's perspective, I imagine this is a frustrating situation. Unfor
 
 I'm currently looking for new assignments and have set my profile to "open to work." I've made some improvements to my profile, but I haven't fully thrown myself into the hunt yet. Nevertheless, I still receive inquiries. There were cases when, after responding to an inquiry, I received no reply, and the position was filled in the meantime. It's like making cold calls. I have 10 products, and if I call 100 people, I hope to sell them. If they don't pick up or hang up, I move on to the following number.
 
-However, recently, two people contacted me on the same day with two different positions, and both were interesting. They described what I would be working on and offered a lot of opportunities for new knowledge. More importantly, they were remote work on a contract basis and offered the hourly rate I set for myself this year. When I think about my experiences and how much I've educated myself in business development and scalability, it's still ridiculously low... but "My product" is not what they're looking for right now. The game is always about supply and demand. 
+However, recently, two people contacted me on the same day with two different positions, and both were interesting. They described what I would be working on and offered a lot of opportunities for new knowledge. More importantly, they were remote work on a contract basis and offered the hourly rate I set for myself this year. When I think about my experiences and how much I've educated myself in business development and scalability, it's still ridiculously low... but "My product" is not what they're looking for right now. The game is always about supply and demand.
 
 I responded to them immediately, showing my interest. Then silence. Dead silence. A week went by, then two, with no response. Other times, I would have registered that I replied late, or that a performance-oriented spam recruiter tried to get a contact from me. But both inquiries were more personal. In the age of OpenAI, I can't even be sure that my profile was actually read, but I would have appreciated AI optimization. So, I decided to investigate.
 
@@ -37,10 +39,10 @@ I'm still waiting for a response from the other. But that wasn't what was intere
 
 We shouldn't be surprised. Every company wants to increase its revenue. That's their job. As users, it's our job to decide whether we're willing to spend money on a service. When I encounter marketing content, I often become skeptical. If you subscribe, "you'll have 2.4x more opportunities". Where did this number come from? Of course, it's statistics. And "I only believe in the statistics that I've falsified myself." In this case, perhaps the number of blocked responses contributed to this incredibly high difference. I don't believe such a significant effect would exist in a free chat application unless there's a catch, especially since it's enough to become connected with the other party. And here comes sales, or upselling. It would be sufficient to attach an automatic message to such a premium conditional message, e.g., "This message was received through a LinkedIn premium channel. If you want to ensure your messages are delivered, activate your Premium trial."
 
-
 If this situation sounds familiar to you, feel free to share this article. It might help reduce your own and others' frustrations.
 
 From my side, I've learned enough to consider the possible operational principles of a platform. And I have prepared a few backup plans on how to bridge any "service outages," such as:
+
 - It sounds like something from the 2000s, but owning a blog is still the foundation of online presence. This way, I own my content, and if I don't like the provider, I can move elsewhere.
 - LinkedIn is a good place to advertise ourselves. But here, too, we need to learn the basics of SEO. Hey, that's why I made a passport.
 - I need a secure communication channel that I can share and change if necessary so I don't miss out on interesting opportunities.
