@@ -8,6 +8,14 @@ outputs:
 
 <div id="printableArea" class="noPrint">
       <h2 onclick="printDiv('article')"/><i class="fa fa-print" style="font-size:24px"></i> Click here to Print me <i class="fa fa-print" style="font-size:24px"></i></h2>
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<!-- Calendly link widget end -->
+
+Wanna chat? <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/zoltantoma87/one-on-one'});return false;">Schedule time with me</a>
+
 </div>
 <script src="/js/printme.js"></script>
 
