@@ -44,19 +44,19 @@ Help to create governance around Dynatrace usage and improved monitoring and cos
 
 ### Jan 2023 - till now, Founder, GoSecNinja OÜ
 
-I've turned my hobbies into a side hustle. This Estonian company enables me to help organizations solve their issues remotely with consultation or contracts. Through it, I can increase cyber security awareness in individuals and companies. Later, I plan to create an SPaaS (Security Platform as a Service) or contribute to creating one.
+I've turned my hobbies into a side hustle. This Estonian company enables me to help organizations solve their issues remotely with consultation or with a contract. Through it, I can increase cyber security awareness in individuals and companies. Later, I plan to create an SPaaS (Security Platform as a Service) or contribute to creating one.
 
-Tech: GitHub, Multi-Cloud, Hugo, Go(Golang), Docker, Kubernetes, PrivateGPT, YouTube, 
+Tech: GitHub, Multi-Cloud, Hugo, Go(Golang), Docker, Kubernetes, PrivateGPT, YouTube,
 
 - I'm creating my personal knowledge base with PrivateGPT
-- Create two YouTube channels GoSecNinja (On hold) and Curious Minds Collective, where I try to share my experience.
+- Created two YouTube channels GoSecNinja (On hold) and Curious Minds Collective, where I try to share my experience.
 - Participated in multiple brainstorming or One-on-Ones to solve or advise security and scalability tips to small and medium-sized businesses.
 
 ### Dec 2022 - Apr 2023, Security Architect, Blue Colibri App
 
 Help the organization improve its security program. Advise on new technologies that could help identify security gaps and mitigate them.
 
-**Tech**: Azure, PHP, GitLab,  Google Workspace, Hugo, Eramba, Vanta, Docker
+**Tech**: Azure, PHP, GitLab, Google Workspace, Hugo, Eramba, Vanta, Docker
 
 - Reviewed pipelines against DevSecOps principals.
 - Introduced internal IT training for developers and geeks where they could share and talk about best practices.
@@ -132,7 +132,6 @@ With like-minded creators, we tried to develop multiple mobile-based games.
 ## Education
 
 ### Computer Software Engineering, University of Debrecen
-
 
 ## Personal statement
 
