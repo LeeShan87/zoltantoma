@@ -7,7 +7,7 @@ copyright = "Zoltan Toma"
 disqusShortname = "zoltantoma"
 [params]
   colortheme = "dark" # dark
-  description = "My personal site for shiny objects."
+  description = "As a passionate Security Software Engineer with a decade’s experience, my mission is to make the digital world safer. Leveraging open-source technologies, I specialize in developing innovative cybersecurity solutions and promoting cybersecurity awareness. My approach combines technical expertise with a commitment to community education, aiming to empower others with the knowledge to protect themselves online. I’m looking for opportunities where I can apply my skills in Go, cloud security, and DevSecOps to not only address current security challenges but also to inspire and lead in the creation of safer digital environments for everyone.\n\nMy current project is to discover the relationship between Mental Health and the Cyber World with shorter content, which I refer to as #MentalInCyber. Are we capable of living in the cyber age? Let's find out together.\n\nUnfortunately, being enthusiastic and creating content is not enough. This requires much more diverse solutions, which is why I mark these efforts and results with #TheMetaGame. For example, owning an Estonian company enables me to help you more flexiblely.\n\nWant to know more? Schedule time with me at https://calendly.com/zoltantoma87/one-on-one"
   author = "Zoltan Toma"
   showVisitedLinks = true
   collapsibleMenu = false

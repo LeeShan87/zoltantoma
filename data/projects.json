@@ -3,17 +3,22 @@
       {
          "name": "GoSecNinja",
          "url": "https://gosec.ninja",
-         "desc": "Make the internet a safer place together."
+         "desc": "Make the internet a safer place together. (First layer of the MetaGame)"
       },
       {
-         "name": "Personal Website",
+         "name": "This Site",
          "url": "https://zoltantoma.com",
-         "desc": "This site. A place for my shiny objects."
+         "desc": "A public source of my projects and ideas"
       },
       {
-         "name": "Fake Api module for Codeception",
-         "url": "https://github.com/LeeShan87/module-fake-api",
-         "desc": "Asynchronous Fake Api module for Codeception"
+         "name": "Patreon - Curious Minds Collective",
+         "url": "https://www.patreon.com/CuriousMindsCollective",
+         "desc": "Part of the second layer of the MetaGame"
+      },
+      {
+         "name": "Youtube - Curious Minds Collective",
+         "url": "https://www.youtube.com/@CMC-with-Zoltan-Toma",
+         "desc": "Sometimes saying is better then writing. Part of the second layer of the MetaGame"
       }
    ]
 }
