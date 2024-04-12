@@ -1,5 +1,5 @@
 ---
-title: Ebenezer Anderson and the Spirits of the Digital World
+title: Ebenezer Anderson and the Spirits of the Digital World - Part 1
 date: 2024-04-10
 description: "Dive into a digital Christmas Carol with Ebenezer. Past, present, future of cyber security."
 tags:
