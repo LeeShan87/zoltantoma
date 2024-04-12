@@ -27,6 +27,10 @@ Wanna chat? <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly
 | **LinkedIn:**      | https://www.linkedin.com/in/toma-zoltan/                                                                                                                                                                                            |
 | **Personal Site:** | https://zoltantoma.com                                                                                                                                                                                                              |
 
+## Personal statement
+
+As a passionate Security Software Engineer with a decade's experience, my mission is to make the digital world safer. Leveraging open-source technologies, I specialize in developing innovative cybersecurity solutions and promoting cybersecurity awareness. My approach combines technical expertise with a commitment to community education, aiming to empower others with the knowledge to protect themselves online. I'm looking for opportunities where I can apply my skills in Go, cloud security, and DevSecOps to not only address current security challenges but also to inspire and lead in the creation of safer digital environments for everyone.
+
 ## Experience
 
 ### Jun 2023 - Jan 2024, Platform Engineer, Hays (Contractor)
@@ -132,7 +136,3 @@ With like-minded creators, we tried to develop multiple mobile-based games.
 ## Education
 
 ### Computer Software Engineering, University of Debrecen
-
-## Personal statement
-
-As a passionate Security Software Engineer with a decade's experience, my mission is to make the digital world safer. Leveraging open-source technologies, I specialize in developing innovative cybersecurity solutions and promoting cybersecurity awareness. My approach combines technical expertise with a commitment to community education, aiming to empower others with the knowledge to protect themselves online. I'm looking for opportunities where I can apply my skills in Go, cloud security, and DevSecOps to not only address current security challenges but also to inspire and lead in the creation of safer digital environments for everyone.
