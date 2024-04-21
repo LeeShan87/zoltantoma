@@ -62,7 +62,7 @@ First, like many, I started thinking about what service I could provide to poten
 
 Of course, I did not get very far. I have tried this many times. I know... many say. Choose one thing and specialize. But I would go crazy if I had to deal only with one role. What I love is solving problems. So, it's not about what I want to work on **but about what you, as a client struggling with a problem, need help with.**
 
-So, this line of thought did not lead to any results. Thus, I tried to approach the question differently. What would I like to wake up to every day? **I would like small and medium businesses to operate more successfully and securely. **
+So, this line of thought did not lead to any results. Thus, I tried to approach the question differently. What would I like to wake up to every day? **I would like small and medium businesses to operate more successfully and securely.**
 
 ![](/images/2024-04-19-how-much-should-i-charge/what_to_who.jpg)
 
@@ -165,7 +165,7 @@ How will I achieve this? I hope with guerrilla marketing. I produce free content
 
 I hope you don't think that now, dear reader. :) But if you do, then you weren't paying close enough attention.
 
-I just showed you what a **pretotype** is. What **alternative thinking** looks like. What it means to set precisely **definable goals**. What the basis of **business development** is. How to **form prices**, and what categories these labels correspond to. **What is upsale **and how to achieve it. And of course, what **guerrilla marketing** is... Why do you think this article is available for free? :D
+I just showed you what a **pretotype** is. What **alternative thinking** looks like. What it means to set precisely **definable goals**. What the basis of **business development** is. How to **form prices**, and what categories these labels correspond to. **What is upsale** and how to achieve it. And of course, what **guerrilla marketing** is... Why do you think this article is available for free? :D
 
 If you want to know more, this article will tell you how to reach me. You'll also know precisely what to expect and how much it will cost. (Well, at least what is the bidding price)
 
@@ -183,7 +183,7 @@ All prices are in euros, without VAT, but I accept other currencies based on agr
 **Non-exclusive contracts:**
 2500 euros per month. Max 3 companies or organizations. I can join your communication channels, and we can discuss what we should do to be more successful. You pay for my attention, not for doing to-dos. For that, you may need an exclusive contract.
 
-**Exclusive long-term contract: **
+**Exclusive long-term contract:**
 
 | Period    | Price | Monthly | Daily | Hourly |
 | --------- | ----- | ------- | ----- | ------ |
